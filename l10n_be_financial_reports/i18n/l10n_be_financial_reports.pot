@@ -1,0 +1,739 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#   * l10n_be_financial_reports
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-28 15:47+0000\n"
+"PO-Revision-Date: 2015-08-28 15:47+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_be_financial_reports
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:228
+#, python-format
+msgid "A centralized account that is a child of a parent centralized account is not supported !\n"
+"Please review the configuration settings of the following account(s) and its parents: \n"
+"%s"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.model,name:l10n_be_financial_reports.model_account_account
+msgid "Account"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.model,name:l10n_be_financial_reports.model_account_financial_report
+msgid "Account Report"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.model,name:l10n_be_financial_reports.model_accounting_report
+msgid "Accounting Report"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:be.legal.financial.reportscheme:l10n_be_financial_reports.view_be_legal_financial_reportscheme_form
+msgid "Accounts"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223300
+msgid "Accrued Charges and Deferred Income"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221500
+msgid "Accumulated Profits (Losses)"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_33320
+msgid "Adjustment of Income Taxes and Provisions for Taxes"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32120
+msgid "Adjustment to Amounts Written Off on Financial Fixed Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32110
+msgid "Adjustment to Depreciation and Write Off on Intangible and Tangible Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32130
+msgid "Adjustment to Provisions for Extraordinary Liabilities and Charges"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212216
+msgid "Advance Payments"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221700
+msgid "Advance to Partners on the distribution of the net assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223130
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223240
+msgid "Advances received on Contracts in Progress"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211410
+msgid "Affiliated Enterprises"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223100
+msgid "Amounts Payable after one Year"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223200
+msgid "Amounts Payable within one Year"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211412
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211422
+msgid "Amounts Receivable"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212100
+msgid "Amounts Receivable after One Year"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211432
+msgid "Amounts Receivable and Cash Guarantees"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212300
+msgid "Amounts Receivable within one Year"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32220
+msgid "Amounts Written Off on Financial Fixed Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_30250
+msgid "Amounts Written Off on Stocks, Orders in Progress and Trade Debts: Increase (Decrease)"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_31220
+msgid "Amounts Written Off on other than Stocks, Orders in Progress and Trade Debts: Increase (Decrease)"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211360
+msgid "Assets under Construction and Advance Payment"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.ui.menu,name:l10n_be_financial_reports.menu_account_report_be_bs
+msgid "Balance Sheet"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.actions.act_window,name:l10n_be_financial_reports.action_account_report_be_bs
+msgid "Belgian Balance Sheet"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:be.legal.financial.reportscheme:l10n_be_financial_reports.view_be_legal_financial_reportscheme_form
+#: view:be.legal.financial.reportscheme:l10n_be_financial_reports.view_be_legal_financial_reportscheme_tree
+#: model:ir.actions.act_window,name:l10n_be_financial_reports.action_be_legal_financial_reportscheme
+#: model:ir.ui.menu,name:l10n_be_financial_reports.menu_be_legal_financial_reportscheme
+msgid "Belgian Legal Financial Report Scheme"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.model,name:l10n_be_financial_reports.model_be_legal_financial_reportscheme
+msgid "Belgian Legal Financial Report Scheme (Full)"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.actions.act_window,name:l10n_be_financial_reports.action_account_report_be_pl
+msgid "Belgian Profit And Loss"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_BE_2_FULL
+msgid "Belgium Balance Sheet (Full Model)"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_BE_3_FULL
+msgid "Belgium P&L (Full Model)"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.ui.menu,name:l10n_be_financial_reports.menu_finance_belgian_statement
+msgid "Belgium Reports"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223122
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223232
+msgid "Bills of Exchange Payable"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212000
+msgid "CURRENT ASSETS"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_result_view
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_view
+msgid "Cancel"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221100
+msgid "Capital"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212500
+msgid "Cash at Bank and in Hand"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:account.account,centralized:0
+msgid "Centralized"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:account.financial.report,code:0
+msgid "Code"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:127
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:165
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:264
+#, python-format
+msgid "Configuration Error !"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:227
+#, python-format
+msgid "Configuration Error :\n"
+"\n"
+""
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:128
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:166
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:265
+#, python-format
+msgid "Configuration Error in the Belgian Legal Financial Report Scheme."
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212220
+msgid "Contracts in progress"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:be.legal.financial.reportscheme,create_uid:0
+#: field:l10n_be.update_be_reportscheme,create_uid:0
+msgid "Created by"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:be.legal.financial.reportscheme,create_date:0
+#: field:l10n_be.update_be_reportscheme,create_date:0
+msgid "Created on"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223114
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223221
+msgid "Credit Institutions"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223000
+msgid "DEBTS"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_31210
+msgid "Debt Charges"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_30212
+msgid "Decrease (Increase) in Stocks"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212600
+msgid "Deferred Charges and Accrued Income"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_222200
+msgid "Deferred Taxes"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_30240
+msgid "Depreciation and Amounts Written Off on Formation Expenses, on  Intangible and  Tangible Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221000
+msgid "EQUITY CAPITAL"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211420
+msgid "Enterprises Linked by Participating Interests"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32200
+msgid "Extraordinary Charges"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32210
+msgid "Extraordinary Depreciation and Amounts Written Off on Formation Expenses, Intangible and Tangible Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32100
+msgid "Extraordinary Income"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211000
+msgid "FIXED ASSETS"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211400
+msgid "Financial Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_31200
+msgid "Financial Charges"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223110
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223220
+msgid "Financial Debts"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_31100
+msgid "Financial Income"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212213
+msgid "Finished Goods"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_34000
+msgid "Fiscal Year Profit (Loss)"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_33000
+msgid "Fiscal Year Profit (Loss) before Taxation"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_35000
+msgid "Fiscal Year Profit (Loss) to be allocated"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_30130
+msgid "Fixed Assets Own Construction"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: code:addons/l10n_be_financial_reports/models/account_financial_report.py:251
+#, python-format
+msgid "Following accounts are not included in the legal Belgian Balance and P&L reports:\n"
+"\n"
+""
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211100
+msgid "Formation Expenses"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211330
+msgid "Furniture and Vehicles"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32140
+msgid "Gain on Disposal of Fixed Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: help:be.legal.financial.reportscheme,account_group:0
+msgid "General Account Starting Digits"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212214
+msgid "Goods purchased for Resale"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:be.legal.financial.reportscheme,account_group:0
+msgid "Group"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: help:account.financial.report,invisible:0
+msgid "Hide this entry from the printed report."
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:be.legal.financial.reportscheme,id:0
+#: field:l10n_be.update_be_reportscheme,id:0
+msgid "ID"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212215
+msgid "Imovable Property acquired for Resale"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221421
+msgid "In respect of own Shares held"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_33300
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_33310
+msgid "Income Taxes"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_31120
+msgid "Income from Current Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_31110
+msgid "Income from Financial Fixed Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_30120
+msgid "Increase (Decrease) in Stocks, Final Goods, Etc."
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211200
+msgid "Intangible Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221600
+msgid "Investment Grants"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212400
+msgid "Investments"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:account.financial.report,invisible:0
+msgid "Invisible"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221110
+msgid "Issued Capital"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211310
+msgid "Land and Buildings"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:be.legal.financial.reportscheme,write_uid:0
+#: field:l10n_be.update_be_reportscheme,write_uid:0
+msgid "Last Updated by"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: field:be.legal.financial.reportscheme,write_date:0
+#: field:l10n_be.update_be_reportscheme,write_date:0
+msgid "Last Updated on"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223113
+msgid "Leasing and other similar Obligations"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211340
+msgid "Leasing and other similar Rights"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221410
+msgid "Legal Reserve"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32240
+msgid "Loss on Disposal of Fixed Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_222130
+msgid "Major Repairs and Maintenance"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_30200
+msgid "Operating Charges"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_30100
+msgid "Operating Income"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_31000
+msgid "Operating Profit (Loss)"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221422
+msgid "Other"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223140
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223260
+msgid "Other Amounts Payable"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212120
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212320
+msgid "Other Amounts Receivable"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_32250
+msgid "Other Extraordinl_report_30220
+msgid "Services and Other Goods"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221200
+msgid "Share Premium Account"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211431
+msgid "Shares"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212210
+msgid "Stocks"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212200
+msgid "Stocks and Contracts in Progress"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223111
+msgid "Subordinated Loans"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223121
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223231
+msgid "Suppliers"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_219000
+msgid "TOTAL ASSETS"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_229000
+msgid "TOTAL LIABILITIES"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_211300
+msgid "Tangible Assets"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_222120
+msgid "Taxation"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223251
+msgid "Taxes"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223250
+msgid "Taxes, Remuneration and Social Security"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: sql_constraint:be.legal.financial.reportscheme:0
+msgid "The General Account Group must be unique !"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212110
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212310
+msgid "Trade Debtors"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223120
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223230
+msgid "Trade Debts"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_33100
+msgid "Transfer from Deferred Taxes"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_34100
+msgid "Transfer from Untaxed Reserves"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_33200
+msgid "Transfer to Deferred Taxes"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_34200
+msgid "Transfer to Untaxed Reserves"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_30110
+msgid "Turnover"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221120
+msgid "Uncalled Capital"
+msgstr ""
+
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_223112
+msgid "Unsubordinated Debentures"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_221430
+msgid "Untaxed Reserves"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_result_view
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_view
+msgid "Update"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.model,name:l10n_be_financial_reports.model_l10n_be_update_be_reportscheme
+msgid "Update BNB/NBB financial reports configuration"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_result_view
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_view
+msgid "Update financial reports configurattion"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_result_view
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_view
+msgid "Update general accounts reporting configuration for Belgian BNB/NBB legal reportscheme."
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:ir.actions.act_window,name:l10n_be_financial_reports.update_be_reportscheme_action
+msgid "Update reporting configuration for Belgian BNB/NBB legal reportscheme"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: model:account.financial.report,name:l10n_be_financial_reports.account_financial_report_212212
+msgid "Work in Progress"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:website:account.report_financial
+msgid "l10n_be_financial_reports.l10n_be_layout"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_result_view
+#: view:l10n_be.update_be_reportscheme:l10n_be_financial_reports.update_be_reportscheme_view
+msgid "or"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: view:website:account.report_financial
+msgid "padleft"
+msgstr ""
+
+#. module: l10n_be_financial_reports
+#: help:account.account,centralized:0
+msgid "this flag has an effect on the following reports:\n"
+"- Belgian legal BNB report : a 'centralized' account of type 'view' can be used as a substitute for its children (e.g. create a '400000' of type view whereby the children are of type 'receivable'\n"
+"- General Ledger report (the webkit one only), no details will be displayed in the General Ledger report (the webkit one only), only centralized amounts per period."
+msgstr ""

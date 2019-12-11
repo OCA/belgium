@@ -1,0 +1,541 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#   * l10n_be_vat_declaration
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-28 15:50+0000\n"
+"PO-Revision-Date: 2015-08-28 15:50+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatdeclaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+msgid "Amount"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.ui.menu,name:l10n_be_vat_declaration.partner_vat_listing
+msgid "Annual Listing Of VAT-Subjected Customers"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.actions.report.xml,name:l10n_be_vat_declaration.action_report_l10nbevatlisting
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing
+#: view:website:l10n_be_vat_declaration.report_l10nbevatlisting
+msgid "Annual Listing of VAT-Subjected Customers"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,ask_payment:0
+msgid "Ask Payment"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,ask_restitution:0
+msgid "Ask Restitution"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatlisting
+msgid "Base Amount"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.ui.menu,name:l10n_be_vat_declaration.menu_finance_belgian_statement
+msgid "Belgium VAT Declaration"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+#: view:partner.vat:l10n_be_vat_declaration.view_partner_vat_listing
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing_result
+msgid "Cancel"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_save
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra_save
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing_result
+msgid "Click on link below to download the XML File"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+msgid "Code"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+#: field:l10n_be.vat.declaration,comments:0
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing
+msgid "Comments"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+msgid "Company"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatdeclaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+#: view:website:l10n_be_vat_declaration.report_l10nbevatlisting
+msgid "Company Name"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing
+msgid "Create XML"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,create_uid:0
+msgid "Created by"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,create_date:0
+msgid "Created on"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing
+msgid "Customer List"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing
+msgid "Customers"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:153
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:156
+#, python-format
+msgid "Data Insufficient!"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,period_to:0
+#: view:website:l10n_be_vat_declaration.report_l10nbevatdeclaration
+msgid "End Period"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:82
+#, python-format
+msgid "Error"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:356
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:127
+#, python-format
+msgid "Error!"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+msgid "European Countries"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,name:0
+msgid "File Name"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,msg:0
+msgid "File created"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.model,name:l10n_be_vat_declaration.model_account_fiscal_position
+msgid "Fiscal Position"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing
+msgid "Free Comments to be Added to the Declaration"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+msgid "General Information"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,id:0
+#: field:report.l10n_be_coa_multilang.report_l10nbevatdeclaration,id:0
+#: field:report.l10n_be_coa_multilang.report_l10nbevatintra,id:0
+#: field:report.l10n_be_coa_multilang.report_l10nbevatlisting,id:0
+msgid "ID"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:190
+#, python-format
+msgid "Incorrect Data!"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:73
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:208
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:238
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:240
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:111
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:130
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:134
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:158
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:160
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:322
+#, python-format
+msgid "Insufficient Data!"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.actions.act_window,name:l10n_be_vat_declaration.action_vat_intra
+#: model:ir.ui.menu,name:l10n_be_vat_declaration.l10n_be_vat_intra
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+msgid "Intracom VAT Declaration"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: help:l10n_be.vat.declaration,ask_payment:0
+msgid "It indicates whether a payment is to made or not?"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: help:l10n_be.vat.declaration,ask_restitution:0
+msgid "It indicates whether a resitution is to made or not?"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+msgid "Last Declaration"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,client_nihil:0
+msgid "Last Declaration, no clients in client listing"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,write_uid:0
+msgid "Last Updated by"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,write_date:0
+msgid "Last Updated on"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:220
+#, python-format
+msgid "No Data Available"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:276
+#, python-format
+msgid "No VAT listing data available."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:208
+#, python-format
+msgid "No VAT number associated with the company."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:112
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:122
+#, python-format
+msgid "No VAT number associated with your company."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:82
+#, python-format
+msgid "No belgian customers with a VAT number in your database."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:73
+#, python-format
+msgid "No data for the selected year."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:114
+#, python-format
+msgid "No data found for the selected year."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:276
+#, python-format
+msgid "No data!"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:238
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:154
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:158
+#, python-format
+msgid "No email address associated with the company."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:221
+#, python-format
+msgid "No intracom transactions found for the selected period(s) !"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:134
+#, python-format
+msgid "No partner has a VAT number asociated with him."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:240
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:157
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:160
+#, python-format
+msgid "No phone associated with the company."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:356
+#, python-format
+msgid "No record to print."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:323
+#, python-format
+msgid "No vat number defined for %s."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+msgid "Options"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+#: view:website:l10n_be_vat_declaration.report_l10nbevatlisting
+msgid "Partner"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.actions.report.xml,name:l10n_be_vat_declaration.action_report_l10nbevatintra
+#: model:ir.model,name:l10n_be_vat_declaration.model_partner_vat_intra
+msgid "Partner VAT Intra"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+msgid "Partner VAT Intra-Community Listing"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.actions.act_window,name:l10n_be_vat_declaration.action_partner_vat_listing
+#: view:partner.vat:l10n_be_vat_declaration.view_partner_vat_listing
+msgid "Partner VAT Listing"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+msgid "Partners without VAT"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+msgid "Period"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+msgid "Period Code"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:127
+#, python-format
+msgid "Period code is not valid."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.actions.act_window,name:l10n_be_vat_declaration.action_vat_declaration
+#: model:ir.actions.report.xml,name:l10n_be_vat_declaration.action_report_l10nbevatdeclaration
+#: model:ir.model,name:l10n_be_vat_declaration.model_l10n_be_vat_declaration
+#: model:ir.ui.menu,name:l10n_be_vat_declaration.l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatdeclaration
+msgid "Periodical VAT Declaration"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+msgid "Periods"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:130
+#, python-format
+msgid "Please select at least one Period."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing_result
+msgid "Print"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:348
+#, python-format
+msgid "Save"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,file_save:0
+msgid "Save File"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: field:l10n_be.vat.declaration,period_from:0
+#: view:website:l10n_be_vat_declaration.report_l10nbevatdeclaration
+msgid "Start Period"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.model,name:l10n_be_vat_declaration.model_account_tax
+#: view:website:l10n_be_vat_declaration.report_l10nbevatdeclaration
+msgid "Tax"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:191
+#, python-format
+msgid "Tax Case 91 is only allowed for the declaration of December."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.model,name:l10n_be_vat_declaration.model_account_tax_code
+#: field:l10n_be.vat.declaration,tax_code_id:0
+msgid "Tax Code"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.model,name:l10n_be_vat_declaration.model_account_tax_code_template
+msgid "Tax Code Template"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.model,name:l10n_be_vat_declaration.model_account_fiscal_position_template
+msgid "Template for Fiscal Position"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: model:ir.model,name:l10n_be_vat_declaration.model_account_tax_template
+msgid "Templates for Taxes"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:partner.vat:l10n_be_vat_declaration.view_partner_vat_listing
+msgid "This wizard will create an XML file for VAT details and total invoiced amounts per partner."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: help:l10n_be.vat.declaration,client_nihil:0
+msgid "Tick this case only if it concerns only the last statement on the civil or cessation of activity: no clients to be included in the client listing."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatlisting
+msgid "VAT Amount"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+#: view:website:l10n_be_vat_declaration.report_l10nbevatlisting
+msgid "VAT Number"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:vat.listing.clients:l10n_be_vat_declaration.view_vat_listing_form
+#: view:vat.listing.clients:l10n_be_vat_declaration.view_vat_listing_tree
+msgid "VAT listing"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:119
+#, python-format
+msgid "Vat Listing"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatdeclaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatintra
+#: view:website:l10n_be_vat_declaration.report_l10nbevatlisting
+msgid "Vat Number"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:partner.vat:l10n_be_vat_declaration.view_partner_vat_listing
+msgid "View Customers"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:328
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_declaration.py:263
+#, python-format
+msgid "XML File has been Created"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_save
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra_save
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing_result
+msgid "XML File has been Created."
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:website:l10n_be_vat_declaration.report_l10nbevatlisting
+msgid "Year"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_partner_vat_listing.py:114
+#: code:addons/l10n_be_vat_declaration/wizards/l10n_be_vat_intra.py:122
+#, python-format
+msgid "insufficient data!"
+msgstr ""
+
+#. module: l10n_be_vat_declaration
+#: view:l10n_be.vat.declaration:l10n_be_vat_declaration.view_vat_declaration
+#: view:partner.vat:l10n_be_vat_declaration.view_partner_vat_listing
+#: view:partner.vat.intra:l10n_be_vat_declaration.view_vat_intra
+#: view:partner.vat.list:l10n_be_vat_declaration.view_vat_listing_result
+msgid "or"
+msgstr ""
+
